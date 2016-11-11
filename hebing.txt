@@ -1,0 +1,6 @@
+git checkout 分支名称  切换分支命令
+git checkout -b 分支名称  创建分支
+git add  文件名   添加文件到暂存区
+git commit 文件名 -m "注释" 执行提交
+git  ls-files   查看查看文件列表
+git merge 分支名称   执行合并
